@@ -16,7 +16,7 @@ SQLiv
 ---
 
 **Installation**  
-1. git clone https://github.com/Hadesy2k/sqliv.git
+1. git clone https://github.com/Mrh1l4n9/sqliv.git
 2. sudo python2 setup.py -i
 
 > Dependencies  
